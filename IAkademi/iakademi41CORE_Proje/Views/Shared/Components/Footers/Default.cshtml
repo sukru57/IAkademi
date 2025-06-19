@@ -1,0 +1,141 @@
+﻿@model IEnumerable<Supplier>
+    <!-- Brand area start -->
+<div class="brand-area">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <div class="all-p-title">
+                    <h3>MARKALAR</h3>
+                </div>
+            </div>
+            <div class="clear"></div>
+            <div class="all-brand singal-p">
+
+                @foreach (var item in Model)
+                {
+                    <div class="singal_brand">
+                        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                            <a href="/Home/SupplierPage/@item.SupplierID"> <img src="/resimler/@item.PhotoPath" alt="" style="height:100px;width:200px;" /> </a>
+                        </div>
+                    </div>
+                }
+
+            </div>
+        </div>
+    </div>
+</div>
+<!-- footer top area start -->
+<section id="sp-bottom-1">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 col-md-4" id="sp-bottom1">
+                <div class="sp-column ">
+                    <div class="sp-module ">
+                        <h3 class="sp-module-title"><span>About Us</span></h3>
+                        <div class="sp-module-content">
+                            <div class="custom">
+                                <div class="footer-static-content">
+                                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+                                    <div class="f-icon">
+                                        <h3>STAY CONNECTED</h3>
+                                        <ul>
+                                            <li class="first">
+                                                <a href="index.html#"><i class="fa fa-facebook"></i></a>
+                                            </li>
+                                            <li>
+                                                <a href="index.html#"><i class="fa fa-twitter"></i></a>
+                                            </li>
+                                            <li>
+                                                <a href="index.html#"><i class="fa fa-google-plus"></i></a>
+                                            </li>
+                                            <li class="last">
+                                                <a href="index.html#"><i class="fa fa-rss"></i></a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 col-md-8" id="sp-bottom2">
+                <div class="sp-column ">
+                    <div class="sp-module ">
+                        <div class="sp-module-content">
+                            <div class="custom">
+                                <div class="row">
+                                    <div class="col-xs-6  col-sm-3 col-md-3">
+                                        <div class="moduletable">
+                                            <h3>Information</h3>
+                                            <ul class="nav menu">
+                                                <li><a href="index.html#">My Account2</a></li>
+                                                <li><a href="index.html#">My Wishlist</a></li>
+                                                <li><a href="index.html#">My Cart</a></li>
+                                                <li><a href="index.html#">Login</a></li>
+                                                <li><a href="index.html#">Contact Us</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="col-xs-6  col-sm-3 col-md-3">
+                                        <div class="moduletable">
+                                            <h3>Why buy from us</h3>
+                                            <ul class="nav menu">
+                                                <li><a href="index.html#">About us</a></li>
+                                                <li><a href="index.html#">Register</a></li>
+                                                <li><a href="index.html#">My Cart</a></li>
+                                                <li><a href="index.html#">Coming Soon</a></li>
+                                                <li><a href="index.html#">404</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="col-xs-6  col-sm-3 col-md-3">
+                                        <div class="moduletable">
+                                            <h3>My Account3</h3>
+                                            <ul class="nav menu">
+                                                <li><a href="index.html#">My Account4</a></li>
+                                                <li><a href="index.html#">My Wishlist</a></li>
+                                                <li><a href="index.html#">My Cart</a></li>
+                                                <li><a href="index.html#">Login</a></li>
+                                                <li><a href="index.html#">Contact Us</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="col-xs-6  col-sm-3 col-md-3">
+                                        <div class="moduletable">
+                                            <h3>Userful links</h3>
+                                            <ul class="nav menu">
+                                                <li><a href="index.html#">About us</a></li>
+                                                <li><a href="index.html#">Register</a></li>
+                                                <li><a href="index.html#">My Cart</a></li>
+                                                <li><a href="index.html#">Coming Soon</a></li>
+                                                <li><a href="index.html#">404</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+@await Component.InvokeAsync("Contact")
+<footer id="sp-footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-6 col-md-6">
+                <p>Copyright &copy; 2015 <a href="../../../bootexperts_default.html" target="_blank">Bootexperts</a> All Rights Reserved</p>
+            </div>
+            <div class="col-sm-6 col-md-6">
+                <div class="payment-logo">
+                    <img src="/img/payment.png" alt="" />
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- footer top area end -->

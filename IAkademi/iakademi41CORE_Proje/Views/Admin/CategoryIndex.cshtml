@@ -1,0 +1,133 @@
+﻿@*\theme\templates\admin*@
+@*table_basic.html -> Simple Table*@
+
+@model IEnumerable<Category>
+
+@{
+    ViewData["Title"] = "CategoryIndex";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+
+
+<div class="row" style="margin-top:80px;">
+
+    
+
+    <div class="col-md-2 col-lg-2 col-sm-12 col-xs-12"></div>
+    <div class="col-md-8 col-lg-8 col-sm-12 col-xs-12">
+
+        <p>
+            <a asp-action="CategoryCreate" asp-controller="Admin" class="btn btn-success">YENİ KATEGORİ</a>
+        </p>
+
+        <!-- BEGIN SAMPLE TABLE PORTLET-->
+        <div class="portlet box red">
+            <div class="portlet-title">
+                <div class="caption">
+                    <i class="fa fa-cogs"></i>KATEGORİ LİSTESİ
+                </div>
+            </div>
+            <div class="portlet-body">
+                <div class="table-scrollable">
+                    <table class="table table-hover">
+                        <thead>
+                            <tr>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.CategoryID)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.CategoryName)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.Active)
+                                </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+
+                            @foreach (var item in Model.Where(c => c.ParentID == 0))
+                            {
+                                <tr>
+                                    <td>
+                                        @Html.DisplayFor(model => item.CategoryID)
+                                    </td>
+                                    <td>
+                                        <span style="background-color:black;color:white;font-size:20px;">
+                                            @Html.DisplayFor(model => item.CategoryName)
+                                        </span>
+                                    </td>
+
+
+                                    <td>
+                                        @if (item.Active)
+                                        {
+                                            <label style="background-color:green;color:white;">AKTİF</label>
+                                        }
+                                        else
+                                        {
+                                            <label style="background-color:red;color:white;">PASİF</label>
+                                        }
+                                    </td>
+
+                                    @*  turner if
+                 <label>(item.Active ? "AKTİF" : "PASİF" )">
+                @Html.DisplayFor(modelItem => item.Active)
+                </td>
+                                    *@
+
+
+                                    <td>
+                                        <a asp-action="CategoryEdit" asp-route-id="@item.CategoryID" class="btn btn-primary">DÜZELT</a>
+                                        <a asp-action="CategoryDetails" asp-route-id="@item.CategoryID" class="btn btn-info">DETAY</a>
+                                        <a asp-action="CategoryDelete" asp-route-id="@item.CategoryID" class="btn btn-danger">SİL</a>
+                                    </td>
+                                </tr>
+
+                                @foreach (var subitem in Model.Where(c => c.ParentID == item.CategoryID))
+                                {
+                                    //yukarıdaki foreach te buldugum ana kategorinin ,alt kategorilere varmı diye bak
+                                    //alt kategorisi vardır
+                                    <tr>
+                                        <td>
+                                            @Html.DisplayFor(model => subitem.CategoryID)
+                                        </td>
+                                        <td>
+                                            <span>
+                                                @Html.DisplayFor(model => subitem.CategoryName)
+                                            </span>
+                                        </td>
+
+                                        <td>
+                                            @if (subitem.Active)
+                                            {
+                                                <label style="background-color:green;color:white;">AKTİF</label>
+                                            }
+                                            else
+                                            {
+                                                <label style="background-color:red;color:white;">PASİF</label>
+                                            }
+                                        </td>
+
+                                        <td>
+                                            <a asp-action="CategoryEdit" asp-route-id="@subitem.CategoryID" class="btn btn-primary">DÜZELT</a>
+                                            <a asp-action="CategoryDetails" asp-route-id="@subitem.CategoryID" class="btn btn-info">DETAY</a>
+                                            <a asp-action="CategoryDelete" asp-route-id="@subitem.CategoryID" class="btn btn-danger">SİL</a>
+                                        </td>
+                                    </tr>
+
+                                }
+
+                            } @*ana kategoriler*@
+
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        <!-- END SAMPLE TABLE PORTLET-->
+    </div>
+</div>
+
+
+@*bootstrap*@

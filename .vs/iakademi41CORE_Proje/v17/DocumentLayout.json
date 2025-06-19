@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\skruo\\OneDrive\\Belgeler\\GitHub\\IAkademi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\skruo\\OneDrive\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\skruo\\OneDrive\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Models\\iakademi41Context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\skruo\\OneDrive\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\skruo\\OneDrive\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Views\\Shared\\Components\\Footers\\Default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\skruo\\OneDrive\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Views\\Shared\\DefaultLayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\skruo\\OneDrive\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\ViewComponents\\Footers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\skruo\\OneDrive\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\ViewComponents\\Address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\skruo\\OneDrive\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\ViewComponents\\Contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\skruo\\OneDrive\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Views\\Shared\\Components\\Contact\\Default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\skruo\\OneDrive\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Models\\Connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\skruo\\OneDrive\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Views\\Shared\\Components\\Headers\\Default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\skruo\\OneDrive\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\ViewComponents\\Headers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\skruo\\OneDrive\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\skruo\\OneDrive\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Views\\Shared\\AdminLayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\skruo\\OneDrive\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Views\\Admin\\ProductIndex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\skruo\\OneDrive\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Views\\Admin\\ProductCreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\skruo\\OneDrive\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Models\\Cls_Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\skruo\\OneDrive\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Views\\Admin\\ProductEdit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\skruo\\OneDrive\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Views\\Admin\\ProductDetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\skruo\\OneDrive\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Views\\Admin\\ProductDelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Footers.cs",
+              "DocumentMoniker": "C:\\Users\\skruo\\OneDrive\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\ViewComponents\\Footers.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\ViewComponents\\Footers.cs",
+              "ToolTip": "C:\\Users\\skruo\\OneDrive\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\ViewComponents\\Footers.cs",
+              "RelativeToolTip": "..\\..\\..\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\ViewComponents\\Footers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T14:48:43.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\skruo\\OneDrive\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\ViewComponents\\Address.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\ViewComponents\\Address.cs",
+              "ToolTip": "C:\\Users\\skruo\\OneDrive\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\ViewComponents\\Address.cs",
+              "RelativeToolTip": "..\\..\\..\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\ViewComponents\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T14:50:50.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\skruo\\OneDrive\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\ViewComponents\\Contact.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\ViewComponents\\Contact.cs",
+              "ToolTip": "C:\\Users\\skruo\\OneDrive\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\ViewComponents\\Contact.cs",
+              "RelativeToolTip": "..\\..\\..\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\ViewComponents\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T14:59:43.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\skruo\\OneDrive\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Program.cs",
+              "ToolTip": "C:\\Users\\skruo\\OneDrive\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T10:46:07.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "iakademi41Context.cs",
+              "DocumentMoniker": "C:\\Users\\skruo\\OneDrive\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Models\\iakademi41Context.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Models\\iakademi41Context.cs",
+              "ToolTip": "C:\\Users\\skruo\\OneDrive\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Models\\iakademi41Context.cs",
+              "RelativeToolTip": "..\\..\\..\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Models\\iakademi41Context.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T15:11:44.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\skruo\\OneDrive\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\appsettings.json",
+              "ToolTip": "C:\\Users\\skruo\\OneDrive\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\appsettings.json",
+              "RelativeToolTip": "..\\..\\..\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\appsettings.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-11T05:40:57.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DefaultLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\skruo\\OneDrive\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Views\\Shared\\DefaultLayout.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Views\\Shared\\DefaultLayout.cshtml",
+              "ToolTip": "C:\\Users\\skruo\\OneDrive\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Views\\Shared\\DefaultLayout.cshtml",
+              "RelativeToolTip": "..\\..\\..\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Views\\Shared\\DefaultLayout.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T11:06:20.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\skruo\\OneDrive\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Views\\Shared\\Components\\Footers\\Default.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Views\\Shared\\Components\\Footers\\Default.cshtml",
+              "ToolTip": "C:\\Users\\skruo\\OneDrive\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Views\\Shared\\Components\\Footers\\Default.cshtml",
+              "RelativeToolTip": "..\\..\\..\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Views\\Shared\\Components\\Footers\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T11:07:17.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\skruo\\OneDrive\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Views\\Shared\\Components\\Contact\\Default.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Views\\Shared\\Components\\Contact\\Default.cshtml",
+              "ToolTip": "C:\\Users\\skruo\\OneDrive\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Views\\Shared\\Components\\Contact\\Default.cshtml",
+              "RelativeToolTip": "..\\..\\..\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Views\\Shared\\Components\\Contact\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T11:07:53.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "C:\\Users\\skruo\\OneDrive\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Models\\Connection.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Models\\Connection.cs",
+              "ToolTip": "C:\\Users\\skruo\\OneDrive\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Models\\Connection.cs",
+              "RelativeToolTip": "..\\..\\..\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Models\\Connection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T15:12:05.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\skruo\\OneDrive\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Views\\Shared\\Components\\Headers\\Default.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Views\\Shared\\Components\\Headers\\Default.cshtml",
+              "ToolTip": "C:\\Users\\skruo\\OneDrive\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Views\\Shared\\Components\\Headers\\Default.cshtml",
+              "RelativeToolTip": "..\\..\\..\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Views\\Shared\\Components\\Headers\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T15:13:57.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Headers.cs",
+              "DocumentMoniker": "C:\\Users\\skruo\\OneDrive\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\ViewComponents\\Headers.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\ViewComponents\\Headers.cs",
+              "ToolTip": "C:\\Users\\skruo\\OneDrive\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\ViewComponents\\Headers.cs",
+              "RelativeToolTip": "..\\..\\..\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\ViewComponents\\Headers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T14:55:09.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\skruo\\OneDrive\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\skruo\\OneDrive\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\..\\..\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAEwAcCAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T11:40:24.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\skruo\\OneDrive\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Views\\Shared\\AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Views\\Shared\\AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\skruo\\OneDrive\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Views\\Shared\\AdminLayout.cshtml",
+              "RelativeToolTip": "..\\..\\..\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Views\\Shared\\AdminLayout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T13:23:46.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\skruo\\OneDrive\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Views\\Admin\\ProductIndex.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Views\\Admin\\ProductIndex.cshtml",
+              "ToolTip": "C:\\Users\\skruo\\OneDrive\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Views\\Admin\\ProductIndex.cshtml",
+              "RelativeToolTip": "..\\..\\..\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Views\\Admin\\ProductIndex.cshtml",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAGcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T09:19:58.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductCreate.cshtml",
+              "DocumentMoniker": "C:\\Users\\skruo\\OneDrive\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Views\\Admin\\ProductCreate.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Views\\Admin\\ProductCreate.cshtml",
+              "ToolTip": "C:\\Users\\skruo\\OneDrive\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Views\\Admin\\ProductCreate.cshtml",
+              "RelativeToolTip": "..\\..\\..\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Views\\Admin\\ProductCreate.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T13:16:34.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Cls_Product.cs",
+              "DocumentMoniker": "C:\\Users\\skruo\\OneDrive\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Models\\Cls_Product.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Models\\Cls_Product.cs",
+              "ToolTip": "C:\\Users\\skruo\\OneDrive\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Models\\Cls_Product.cs",
+              "RelativeToolTip": "..\\..\\..\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Models\\Cls_Product.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAAALMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T10:12:09.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\skruo\\OneDrive\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Views\\Admin\\ProductEdit.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Views\\Admin\\ProductEdit.cshtml",
+              "ToolTip": "C:\\Users\\skruo\\OneDrive\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Views\\Admin\\ProductEdit.cshtml",
+              "RelativeToolTip": "..\\..\\..\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Views\\Admin\\ProductEdit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T09:19:54.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\skruo\\OneDrive\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Views\\Admin\\ProductDetails.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Views\\Admin\\ProductDetails.cshtml",
+              "ToolTip": "C:\\Users\\skruo\\OneDrive\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Views\\Admin\\ProductDetails.cshtml",
+              "RelativeToolTip": "..\\..\\..\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Views\\Admin\\ProductDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T09:19:52.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductDelete.cshtml",
+              "DocumentMoniker": "C:\\Users\\skruo\\OneDrive\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Views\\Admin\\ProductDelete.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Views\\Admin\\ProductDelete.cshtml",
+              "ToolTip": "C:\\Users\\skruo\\OneDrive\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Views\\Admin\\ProductDelete.cshtml",
+              "RelativeToolTip": "..\\..\\..\\Masa\u00FCst\u00FC\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\iakademi41CORE_Proje\\Views\\Admin\\ProductDelete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T09:19:49.929Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 105,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
