@@ -8,8 +8,7 @@ namespace iakademi41CORE_Proje.Controllers
 {
     public class HomeController : Controller
     {
-        //Hocan Proje istenmeyecek.Herkes kendi yazacak.
-        // Sebep = öğrenmenin en iyi yolu
+        
 
         //Tools - Nuget - Package
         //PM> Add-Migration "Createİakademi41"
